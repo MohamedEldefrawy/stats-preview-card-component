@@ -1,8 +1,5 @@
 # Frontend Mentor - Stats preview card component
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
-
-## Welcome! 👋
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,7 +25,7 @@ Users should be able to:
 ![Desktop view](./screenshots/Mobile.png)
 
 ### Links
-- Live Site URL: [Live]()
+- Live Site URL: [Deploy](https://mohamedeldefrawy.github.io/stats-preview-card-component/)
 
 ## My Process
 ### Built with
